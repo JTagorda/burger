@@ -9,4 +9,4 @@ CREATE TABLE `burgers`
 	`devoured` BOOLEAN DEFAULT false,
 	`date` TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
 	PRIMARY KEY (id)
-);gpblvy2397w0advj
+);
